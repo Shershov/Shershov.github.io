@@ -1,1 +1,1 @@
-# Shershov.github.io
+# Tattly project
